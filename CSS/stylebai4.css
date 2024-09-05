@@ -1,0 +1,14 @@
+.khung1 {
+    width: 70%;
+    height: auto;
+    padding: 20px;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+.khung2 {
+    width: 80%;
+    height: auto;
+    padding: 20px;
+    border: 2px solid blue;
+    box-sizing: border-box;
+}

@@ -1,0 +1,24 @@
+.khung {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    border: 2px solid gray; 
+    box-sizing: border-box;
+    margin: auto;
+    background-color: #f9f9f9;
+}
+table {
+    width: 100%;
+    border-spacing: 2px;
+    border-collapse: collapse;
+    border: 5px solid rgb(148, 26, 144);
+}
+th, td {
+    border: 1px solid black; 
+    padding: 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+th {
+    background-color: #f2f2f2;
+}
